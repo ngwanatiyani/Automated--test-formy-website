@@ -82,9 +82,13 @@ public class FormyAutocomplete {
     }
 
     @After
-    public void tearDown() {
-        if (driver != null) {
+    public void tearDown() 
+    {
+        if (driver != null) 
+        {
             driver.quit();
         }
     }
+
+    //End of program
 }
