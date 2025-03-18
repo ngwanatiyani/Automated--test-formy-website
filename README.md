@@ -1,6 +1,6 @@
 ## 🌐 Selenium Autocomplete Test
 
-This project is a Selenium test automation script that verifies the autocomplete functionality on the Formy Autocomplete webpage. 🚀
+This project contain a Selenium test automation script that verifies the autocomplete functionality on the Formy Autocomplete webpage. 🚀
 
 ## 📦 Requirements
 
